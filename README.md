@@ -1,2 +1,1 @@
-"# ewo-bot" 
 "# Navilang-bot" 
